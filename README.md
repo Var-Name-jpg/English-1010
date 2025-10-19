@@ -1,5 +1,5 @@
 # English-1010
-English 1010 class at ETSU - Danielle Byington
+English 1010 class at ETSU - Danielle Byington\n
 This repository contains all of my essays written for ENGL-1010.
 
 #Files
